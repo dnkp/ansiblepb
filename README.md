@@ -1,3 +1,3 @@
 # ansiblepb
-First change in this file
-Second change to the file
+First change in this file\n
+Second change to the file\n
