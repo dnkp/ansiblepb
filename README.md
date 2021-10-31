@@ -7,3 +7,7 @@ Wil this be ok?<br/>
 another change 30.10.2021.<br/>
 Promene lokalno nakon edita na github<br/>
 edit na github 31.10.2021.!!!
+Pokusaj Tabele | Druga
+-------------- | --------------
+Prvi unos | Neki **unos**
+Drugi unos | Drugi *unos*
