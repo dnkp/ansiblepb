@@ -4,6 +4,6 @@ Second change to the file
 Third change<br/>
 And anothe r change on 21.03.2021.<br/>
 Wil this be ok?<br/>
-another change 30.10.2021.
-Promene lokalno nakon edita na github
+another change 30.10.2021.<br/>
+Promene lokalno nakon edita na github<br/>
 edit na github 31.10.2021.!!!
